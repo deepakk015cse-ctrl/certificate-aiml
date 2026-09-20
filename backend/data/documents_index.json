@@ -1,0 +1,984 @@
+[
+  {
+    "id": "b8851e84",
+    "filename": "sample_scanned_training_award_skewed.png",
+    "original_filename": "sample_scanned_training_award_skewed.png",
+    "file_type": "image/png",
+    "file_size": 496191,
+    "created_at": "2026-09-12 13:49:41",
+    "status": "UPLOADED",
+    "original_url": "/api/documents/file/sample_scanned_training_award_skewed.png",
+    "preprocessed": null,
+    "ocr": null,
+    "approval_notes": null,
+    "reviewer": null,
+    "reviewed_at": null
+  },
+  {
+    "id": "89fd4a8a",
+    "filename": "sample_diplome_reussite_fr.png",
+    "original_filename": "sample_diplome_reussite_fr.png",
+    "file_type": "image/png",
+    "file_size": 172492,
+    "created_at": "2026-09-12 13:49:40",
+    "status": "AWAITING_REVIEW",
+    "original_url": "/api/documents/file/sample_diplome_reussite_fr.png",
+    "preprocessed": {
+      "processed": true,
+      "quality_score": 0.9,
+      "skew_angle": 1.9,
+      "original_dimensions": [
+        1400,
+        980
+      ],
+      "processed_dimensions": [
+        1600,
+        1146
+      ],
+      "warnings": [
+        "Severe overexposure / washed out text detected.",
+        "Low contrast detected between text ink and paper background.",
+        "Skew detected and corrected: 1.9° rotation applied."
+      ],
+      "steps_applied": [
+        "load_document",
+        "deskew (1.9°)",
+        "illumination_correction",
+        "contrast_enhancement (CLAHE)",
+        "edge_preserving_denoise",
+        "bicubic_upscale"
+      ],
+      "output_path": "/app/applet/backend/data/preprocessed/preprocessed_sample_diplome_reussite_fr.png",
+      "processed_url": "/api/documents/file-preprocessed/preprocessed_sample_diplome_reussite_fr.png"
+    },
+    "ocr": {
+      "text": "ACADMIE DE PARIS- MINISTURE DE LHDUCATION DIPLAME DE FIN DTUDES SUPBRIEURES MARIE DUBOIS. a validavec succes l'ensemble des preuves requises pour l'obtention dur MASTEREN GESTION ET INGHNIERIE NUMBRIQUE Mention: Tri Bien avec Filicitations du Jury. Dativnn Paris ie 12 Septembre 2023 | Rat FR-PAR-55421 Authorized Signatory",
+      "average_confidence": 54.8,
+      "language": "fra",
+      "regions": [
+        {
+          "text": "ACADMIE",
+          "confidence": 40.0,
+          "bbox": [
+            670,
+            143,
+            108,
+            10
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 93.0,
+          "bbox": [
+            728,
+            134,
+            11,
+            28
+          ]
+        },
+        {
+          "text": "PARIS-",
+          "confidence": 81.0,
+          "bbox": [
+            745,
+            143,
+            33,
+            10
+          ]
+        },
+        {
+          "text": "MINISTURE",
+          "confidence": 32.0,
+          "bbox": [
+            782,
+            143,
+            146,
+            10
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 86.0,
+          "bbox": [
+            843,
+            134,
+            12,
+            28
+          ]
+        },
+        {
+          "text": "LHDUCATION",
+          "confidence": 0.0,
+          "bbox": [
+            859,
+            143,
+            69,
+            10
+          ]
+        },
+        {
+          "text": "DIPLAME",
+          "confidence": 6.0,
+          "bbox": [
+            694,
+            210,
+            46,
+            10
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 96.0,
+          "bbox": [
+            743,
+            211,
+            14,
+            9
+          ]
+        },
+        {
+          "text": "FIN",
+          "confidence": 93.0,
+          "bbox": [
+            760,
+            210,
+            17,
+            10
+          ]
+        },
+        {
+          "text": "DTUDES",
+          "confidence": 0.0,
+          "bbox": [
+            781,
+            210,
+            50,
+            10
+          ]
+        },
+        {
+          "text": "SUPBRIEURES",
+          "confidence": 1.0,
+          "bbox": [
+            834,
+            210,
+            71,
+            10
+          ]
+        },
+        {
+          "text": "MARIE",
+          "confidence": 86.0,
+          "bbox": [
+            762,
+            387,
+            33,
+            10
+          ]
+        },
+        {
+          "text": "DUBOIS.",
+          "confidence": 18.0,
+          "bbox": [
+            798,
+            387,
+            40,
+            10
+          ]
+        },
+        {
+          "text": "a",
+          "confidence": 37.0,
+          "bbox": [
+            606,
+            453,
+            7,
+            28
+          ]
+        },
+        {
+          "text": "validavec",
+          "confidence": 46.0,
+          "bbox": [
+            620,
+            453,
+            54,
+            28
+          ]
+        },
+        {
+          "text": "succes",
+          "confidence": 28.0,
+          "bbox": [
+            676,
+            453,
+            33,
+            28
+          ]
+        },
+        {
+          "text": "l'ensemble",
+          "confidence": 31.0,
+          "bbox": [
+            713,
+            453,
+            54,
+            28
+          ]
+        },
+        {
+          "text": "des",
+          "confidence": 29.0,
+          "bbox": [
+            774,
+            453,
+            14,
+            28
+          ]
+        },
+        {
+          "text": "preuves",
+          "confidence": 29.0,
+          "bbox": [
+            795,
+            453,
+            42,
+            28
+          ]
+        },
+        {
+          "text": "requises",
+          "confidence": 91.0,
+          "bbox": [
+            841,
+            453,
+            45,
+            28
+          ]
+        },
+        {
+          "text": "pour",
+          "confidence": 85.0,
+          "bbox": [
+            890,
+            453,
+            22,
+            28
+          ]
+        },
+        {
+          "text": "l'obtention",
+          "confidence": 4.0,
+          "bbox": [
+            917,
+            459,
+            70,
+            11
+          ]
+        },
+        {
+          "text": "dur",
+          "confidence": 77.0,
+          "bbox": [
+            974,
+            453,
+            17,
+            28
+          ]
+        },
+        {
+          "text": "MASTEREN",
+          "confidence": 84.0,
+          "bbox": [
+            667,
+            504,
+            63,
+            28
+          ]
+        },
+        {
+          "text": "GESTION",
+          "confidence": 93.0,
+          "bbox": [
+            734,
+            504,
+            45,
+            28
+          ]
+        },
+        {
+          "text": "ET",
+          "confidence": 84.0,
+          "bbox": [
+            783,
+            504,
+            13,
+            28
+          ]
+        },
+        {
+          "text": "INGHNIERIE",
+          "confidence": 6.0,
+          "bbox": [
+            800,
+            513,
+            61,
+            10
+          ]
+        },
+        {
+          "text": "NUMBRIQUE",
+          "confidence": 85.0,
+          "bbox": [
+            864,
+            513,
+            64,
+            10
+          ]
+        },
+        {
+          "text": "Mention:",
+          "confidence": 83.0,
+          "bbox": [
+            684,
+            586,
+            46,
+            10
+          ]
+        },
+        {
+          "text": "Tri",
+          "confidence": 72.0,
+          "bbox": [
+            733,
+            577,
+            17,
+            28
+          ]
+        },
+        {
+          "text": "Bien",
+          "confidence": 53.0,
+          "bbox": [
+            757,
+            577,
+            21,
+            28
+          ]
+        },
+        {
+          "text": "avec",
+          "confidence": 53.0,
+          "bbox": [
+            782,
+            577,
+            22,
+            28
+          ]
+        },
+        {
+          "text": "Filicitations",
+          "confidence": 3.0,
+          "bbox": [
+            808,
+            586,
+            79,
+            10
+          ]
+        },
+        {
+          "text": "du",
+          "confidence": 93.0,
+          "bbox": [
+            873,
+            577,
+            13,
+            28
+          ]
+        },
+        {
+          "text": "Jury.",
+          "confidence": 90.0,
+          "bbox": [
+            890,
+            586,
+            25,
+            12
+          ]
+        },
+        {
+          "text": "Dativnn",
+          "confidence": 0.0,
+          "bbox": [
+            649,
+            631,
+            47,
+            28
+          ]
+        },
+        {
+          "text": "Paris",
+          "confidence": 6.0,
+          "bbox": [
+            698,
+            631,
+            24,
+            28
+          ]
+        },
+        {
+          "text": "ie",
+          "confidence": 6.0,
+          "bbox": [
+            723,
+            631,
+            10,
+            28
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 96.0,
+          "bbox": [
+            738,
+            639,
+            12,
+            11
+          ]
+        },
+        {
+          "text": "Septembre",
+          "confidence": 84.0,
+          "bbox": [
+            754,
+            640,
+            57,
+            12
+          ]
+        },
+        {
+          "text": "2023",
+          "confidence": 92.0,
+          "bbox": [
+            814,
+            639,
+            26,
+            11
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 95.0,
+          "bbox": [
+            845,
+            638,
+            3,
+            13
+          ]
+        },
+        {
+          "text": "Rat",
+          "confidence": 64.0,
+          "bbox": [
+            853,
+            639,
+            17,
+            11
+          ]
+        },
+        {
+          "text": "FR-PAR-55421",
+          "confidence": 44.0,
+          "bbox": [
+            873,
+            639,
+            72,
+            11
+          ]
+        },
+        {
+          "text": "Authorized",
+          "confidence": 84.0,
+          "bbox": [
+            1276,
+            1009,
+            59,
+            10
+          ]
+        },
+        {
+          "text": "Signatory",
+          "confidence": 62.0,
+          "bbox": [
+            1338,
+            1009,
+            49,
+            12
+          ]
+        }
+      ],
+      "warnings": [
+        "Handwriting or degraded script detected: Cursive signatures and handwritten notations have reduced OCR fidelity. Please verify flagged areas manually.",
+        "Overall OCR confidence is below optimal threshold. Check image orientation, contrast, or select a specific language pack."
+      ],
+      "char_count": 323,
+      "word_count": 46,
+      "engine": "Local Tesseract OCR (Offline Open-Source)",
+      "handwriting_limitations_flag": true
+    },
+    "approval_notes": null,
+    "reviewer": null,
+    "reviewed_at": null
+  },
+  {
+    "id": "d6c6e170",
+    "filename": "sample_bachelor_degree_en.png",
+    "original_filename": "sample_bachelor_degree_en.png",
+    "file_type": "image/png",
+    "file_size": 80437,
+    "created_at": "2026-09-12 13:49:38",
+    "status": "APPROVED",
+    "original_url": "/api/documents/file/sample_bachelor_degree_en.png",
+    "preprocessed": {
+      "processed": true,
+      "quality_score": 0.9,
+      "skew_angle": 0.0,
+      "original_dimensions": [
+        1400,
+        980
+      ],
+      "processed_dimensions": [
+        1600,
+        1120
+      ],
+      "warnings": [
+        "Severe overexposure / washed out text detected.",
+        "Low contrast detected between text ink and paper background."
+      ],
+      "steps_applied": [
+        "load_document",
+        "illumination_correction",
+        "contrast_enhancement (CLAHE)",
+        "edge_preserving_denoise",
+        "bicubic_upscale"
+      ],
+      "output_path": "/app/applet/backend/data/preprocessed/preprocessed_sample_bachelor_degree_en.png",
+      "processed_url": "/api/documents/file-preprocessed/preprocessed_sample_bachelor_degree_en.png"
+    },
+    "ocr": {
+      "text": "(OXFORD INSTITUTE OF TECHNOLOGY CERTIFICATE OF GRADUATION Thisistocertify that ELENAROSTOVA has successfully completed the four-year degree program and isawarded BACHELOROF SCIENCE IN COMPUTER SCIENCE With FirstClass Distinction Honourson June 14,2024 Certificate 1D. O1T-202488492 | Dean: Dr. Arthur Pendelton Authorized Signatory",
+      "average_confidence": 79.7,
+      "language": "eng",
+      "regions": [
+        {
+          "text": "(OXFORD",
+          "confidence": 72.0,
+          "bbox": [
+            698,
+            121,
+            45,
+            10
+          ]
+        },
+        {
+          "text": "INSTITUTE",
+          "confidence": 85.0,
+          "bbox": [
+            746,
+            121,
+            74,
+            10
+          ]
+        },
+        {
+          "text": "OF",
+          "confidence": 85.0,
+          "bbox": [
+            806,
+            112,
+            14,
+            28
+          ]
+        },
+        {
+          "text": "TECHNOLOGY",
+          "confidence": 91.0,
+          "bbox": [
+            823,
+            121,
+            78,
+            10
+          ]
+        },
+        {
+          "text": "CERTIFICATE",
+          "confidence": 55.0,
+          "bbox": [
+            719,
+            190,
+            70,
+            9
+          ]
+        },
+        {
+          "text": "OF",
+          "confidence": 55.0,
+          "bbox": [
+            792,
+            190,
+            14,
+            9
+          ]
+        },
+        {
+          "text": "GRADUATION",
+          "confidence": 96.0,
+          "bbox": [
+            809,
+            190,
+            71,
+            9
+          ]
+        },
+        {
+          "text": "Thisistocertify",
+          "confidence": 40.0,
+          "bbox": [
+            749,
+            315,
+            78,
+            10
+          ]
+        },
+        {
+          "text": "that",
+          "confidence": 96.0,
+          "bbox": [
+            831,
+            315,
+            21,
+            10
+          ]
+        },
+        {
+          "text": "ELENAROSTOVA",
+          "confidence": 87.0,
+          "bbox": [
+            756,
+            370,
+            89,
+            10
+          ]
+        },
+        {
+          "text": "has",
+          "confidence": 0.0,
+          "bbox": [
+            609,
+            436,
+            17,
+            28
+          ]
+        },
+        {
+          "text": "successfully",
+          "confidence": 0.0,
+          "bbox": [
+            628,
+            436,
+            65,
+            28
+          ]
+        },
+        {
+          "text": "completed",
+          "confidence": 95.0,
+          "bbox": [
+            698,
+            436,
+            50,
+            28
+          ]
+        },
+        {
+          "text": "the",
+          "confidence": 95.0,
+          "bbox": [
+            753,
+            444,
+            18,
+            10
+          ]
+        },
+        {
+          "text": "four-year",
+          "confidence": 93.0,
+          "bbox": [
+            775,
+            436,
+            47,
+            28
+          ]
+        },
+        {
+          "text": "degree",
+          "confidence": 88.0,
+          "bbox": [
+            826,
+            436,
+            34,
+            28
+          ]
+        },
+        {
+          "text": "program",
+          "confidence": 93.0,
+          "bbox": [
+            866,
+            447,
+            43,
+            9
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 91.0,
+          "bbox": [
+            912,
+            444,
+            20,
+            10
+          ]
+        },
+        {
+          "text": "isawarded",
+          "confidence": 91.0,
+          "bbox": [
+            936,
+            444,
+            54,
+            10
+          ]
+        },
+        {
+          "text": "BACHELOROF",
+          "confidence": 88.0,
+          "bbox": [
+            672,
+            499,
+            75,
+            10
+          ]
+        },
+        {
+          "text": "SCIENCE",
+          "confidence": 96.0,
+          "bbox": [
+            751,
+            499,
+            48,
+            10
+          ]
+        },
+        {
+          "text": "IN",
+          "confidence": 92.0,
+          "bbox": [
+            802,
+            499,
+            11,
+            10
+          ]
+        },
+        {
+          "text": "COMPUTER",
+          "confidence": 92.0,
+          "bbox": [
+            816,
+            499,
+            62,
+            10
+          ]
+        },
+        {
+          "text": "SCIENCE",
+          "confidence": 96.0,
+          "bbox": [
+            881,
+            499,
+            48,
+            10
+          ]
+        },
+        {
+          "text": "With",
+          "confidence": 73.0,
+          "bbox": [
+            657,
+            573,
+            26,
+            10
+          ]
+        },
+        {
+          "text": "FirstClass",
+          "confidence": 77.0,
+          "bbox": [
+            685,
+            565,
+            50,
+            28
+          ]
+        },
+        {
+          "text": "Distinction",
+          "confidence": 86.0,
+          "bbox": [
+            741,
+            565,
+            57,
+            28
+          ]
+        },
+        {
+          "text": "Honourson",
+          "confidence": 82.0,
+          "bbox": [
+            800,
+            573,
+            60,
+            10
+          ]
+        },
+        {
+          "text": "June",
+          "confidence": 95.0,
+          "bbox": [
+            864,
+            574,
+            28,
+            9
+          ]
+        },
+        {
+          "text": "14,2024",
+          "confidence": 90.0,
+          "bbox": [
+            896,
+            573,
+            46,
+            11
+          ]
+        },
+        {
+          "text": "Certificate",
+          "confidence": 90.0,
+          "bbox": [
+            641,
+            627,
+            54,
+            11
+          ]
+        },
+        {
+          "text": "1D.",
+          "confidence": 73.0,
+          "bbox": [
+            699,
+            620,
+            12,
+            28
+          ]
+        },
+        {
+          "text": "O1T-202488492",
+          "confidence": 69.0,
+          "bbox": [
+            714,
+            628,
+            86,
+            10
+          ]
+        },
+        {
+          "text": "|",
+          "confidence": 96.0,
+          "bbox": [
+            807,
+            627,
+            1,
+            13
+          ]
+        },
+        {
+          "text": "Dean:",
+          "confidence": 96.0,
+          "bbox": [
+            815,
+            628,
+            29,
+            10
+          ]
+        },
+        {
+          "text": "Dr.",
+          "confidence": 95.0,
+          "bbox": [
+            848,
+            628,
+            13,
+            10
+          ]
+        },
+        {
+          "text": "Arthur",
+          "confidence": 93.0,
+          "bbox": [
+            864,
+            628,
+            35,
+            10
+          ]
+        },
+        {
+          "text": "Pendelton",
+          "confidence": 17.0,
+          "bbox": [
+            903,
+            628,
+            54,
+            10
+          ]
+        },
+        {
+          "text": "Authorized",
+          "confidence": 94.0,
+          "bbox": [
+            1286,
+            1007,
+            59,
+            9
+          ]
+        },
+        {
+          "text": "Signatory",
+          "confidence": 88.0,
+          "bbox": [
+            1349,
+            1007,
+            50,
+            12
+          ]
+        }
+      ],
+      "warnings": [],
+      "char_count": 331,
+      "word_count": 40,
+      "engine": "Local Tesseract OCR (Offline Open-Source)",
+      "handwriting_limitations_flag": false
+    },
+    "approval_notes": "All printed text fields match academic transcripts with >90% OCR confidence.",
+    "reviewer": "Dr. Sarah Jenkins (Head Registrar)",
+    "reviewed_at": "2024-09-12 10:30:00"
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "id": "b8851e84",
+    "filename": "sample_scanned_training_award_skewed.png",
+    "original_filename": "sample_scanned_training_award_skewed.png",
+    "file_type": "image/png",
+    "file_size": 28762,
+    "created_at": "2026-09-12 14:47:41",
+    "status": "UPLOADED",
+    "original_url": "/api/files/uploads/sample_scanned_training_award_skewed.png",
+    "preprocessed": null,
+    "ocr": null,
+    "approval_notes": null,
+    "reviewer": null,
+    "reviewed_at": null
+  },
+  {
+    "id": "89fd4a8a",
+    "filename": "sample_diplome_reussite_fr.png",
+    "original_filename": "sample_diplome_reussite_fr.png",
+    "file_type": "image/png",
+    "file_size": 18266,
+    "created_at": "2026-09-12 14:47:42",
+    "status": "AWAITING_REVIEW",
+    "original_url": "/api/files/uploads/sample_diplome_reussite_fr.png",
+    "preprocessed": {
+      "processed": true,
+      "quality_score": 0.98,
+      "skew_angle": 0.0,
+      "original_dimensions": [
+        1200,
+        850
+      ],
+      "processed_dimensions": [
+        1200,
+        850
+      ],
+      "warnings": [
+        "Image appears overexposed with washed out text."
+      ],
+      "steps_applied": [
+        "Adaptive CLAHE contrast enhancement",
+        "Edge-preserving bilateral denoise"
+      ],
+      "output_path": "/app/applet/backend/data/preprocessed/proc_sample_diplome_reussite_fr.png",
+      "processed_url": "/api/files/preprocessed/proc_sample_diplome_reussite_fr.png"
+    },
+    "ocr": {
+      "text": "FRPUBLIQUE FRAN2AISE ENSEIGNEMENT SUPBRIEUR\n\nTHISCERTIFIES THAT\n\nMAR LAURENT\n\nVue code de Mucation, conffre au titulaire nle 14/05/2001\n\nLe DIPLBME DE LICENCE EN INFORMATIQUE.\n\nFaitaPari le 80 juin 2025.\n\nAuthorized Registar Signature",
+      "average_confidence": 70.4,
+      "language": "fra",
+      "engine": "Tesseract OCR 5.3 (Local Edge)",
+      "char_count": 234,
+      "word_count": 31,
+      "regions": [
+        {
+          "text": "FRPUBLIQUE",
+          "confidence": 42.0,
+          "bbox": [
+            337,
+            81,
+            61,
+            28
+          ]
+        },
+        {
+          "text": "ENSEIGNEMENT",
+          "confidence": 88.0,
+          "bbox": [
+            462,
+            92,
+            76,
+            8
+          ]
+        },
+        {
+          "text": "SUPBRIEUR",
+          "confidence": 59.0,
+          "bbox": [
+            542,
+            81,
+            51,
+            28
+          ]
+        },
+        {
+          "text": "THISCERTIFIES",
+          "confidence": 84.0,
+          "bbox": [
+            421,
+            242,
+            101,
+            8
+          ]
+        },
+        {
+          "text": "THAT",
+          "confidence": 95.0,
+          "bbox": [
+            498,
+            231,
+            27,
+            28
+          ]
+        },
+        {
+          "text": "MAR",
+          "confidence": 56.0,
+          "bbox": [
+            381,
+            302,
+            26,
+            8
+          ]
+        },
+        {
+          "text": "LAURENT",
+          "confidence": 81.0,
+          "bbox": [
+            411,
+            302,
+            44,
+            8
+          ]
+        },
+        {
+          "text": "Vue",
+          "confidence": 47.0,
+          "bbox": [
+            280,
+            422,
+            12,
+            8
+          ]
+        },
+        {
+          "text": "code",
+          "confidence": 60.0,
+          "bbox": [
+            296,
+            422,
+            31,
+            8
+          ]
+        },
+        {
+          "text": "de",
+          "confidence": 95.0,
+          "bbox": [
+            330,
+            422,
+            11,
+            8
+          ]
+        },
+        {
+          "text": "au",
+          "confidence": 63.0,
+          "bbox": [
+            434,
+            412,
+            10,
+            28
+          ]
+        },
+        {
+          "text": "titulaire",
+          "confidence": 56.0,
+          "bbox": [
+            448,
+            421,
+            36,
+            9
+          ]
+        },
+        {
+          "text": "14/05/2001",
+          "confidence": 72.0,
+          "bbox": [
+            514,
+            422,
+            51,
+            8
+          ]
+        },
+        {
+          "text": "Le",
+          "confidence": 67.0,
+          "bbox": [
+            281,
+            462,
+            7,
+            8
+          ]
+        },
+        {
+          "text": "DIPLBME",
+          "confidence": 77.0,
+          "bbox": [
+            292,
+            462,
+            56,
+            8
+          ]
+        },
+        {
+          "text": "DE",
+          "confidence": 82.0,
+          "bbox": [
+            335,
+            451,
+            12,
+            28
+          ]
+        },
+        {
+          "text": "LICENCE",
+          "confidence": 81.0,
+          "bbox": [
+            351,
+            462,
+            57,
+            8
+          ]
+        },
+        {
+          "text": "EN",
+          "confidence": 95.0,
+          "bbox": [
+            395,
+            451,
+            13,
+            28
+          ]
+        },
+        {
+          "text": "INFORMATIQUE.",
+          "confidence": 89.0,
+          "bbox": [
+            412,
+            462,
+            74,
+            8
+          ]
+        },
+        {
+          "text": "FaitaPari",
+          "confidence": 11.0,
+          "bbox": [
+            281,
+            502,
+            48,
+            9
+          ]
+        },
+        {
+          "text": "le",
+          "confidence": 34.0,
+          "bbox": [
+            330,
+            492,
+            10,
+            28
+          ]
+        },
+        {
+          "text": "80",
+          "confidence": 73.0,
+          "bbox": [
+            344,
+            502,
+            8,
+            8
+          ]
+        },
+        {
+          "text": "juin",
+          "confidence": 76.0,
+          "bbox": [
+            357,
+            504,
+            19,
+            8
+          ]
+        },
+        {
+          "text": "2025.",
+          "confidence": 93.0,
+          "bbox": [
+            380,
+            502,
+            22,
+            8
+          ]
+        },
+        {
+          "text": "Authorized",
+          "confidence": 93.0,
+          "bbox": [
+            880,
+            747,
+            52,
+            8
+          ]
+        },
+        {
+          "text": "Registar",
+          "confidence": 61.0,
+          "bbox": [
+            936,
+            747,
+            39,
+            10
+          ]
+        },
+        {
+          "text": "Signature",
+          "confidence": 70.0,
+          "bbox": [
+            979,
+            747,
+            45,
+            10
+          ]
+        }
+      ],
+      "warnings": [
+        "Certificate seal or signature block detected with variable contrast."
+      ]
+    },
+    "approval_notes": null,
+    "reviewer": null,
+    "reviewed_at": null
+  },
+  {
+    "id": "d6c6e170",
+    "filename": "sample_bachelor_degree_en.png",
+    "original_filename": "sample_bachelor_degree_en.png",
+    "file_type": "image/png",
+    "file_size": 19544,
+    "created_at": "2026-09-12 14:47:44",
+    "status": "APPROVED",
+    "original_url": "/api/files/uploads/sample_bachelor_degree_en.png",
+    "preprocessed": {
+      "processed": true,
+      "quality_score": 0.98,
+      "skew_angle": 0.0,
+      "original_dimensions": [
+        1200,
+        850
+      ],
+      "processed_dimensions": [
+        1200,
+        850
+      ],
+      "warnings": [
+        "Image appears overexposed with washed out text."
+      ],
+      "steps_applied": [
+        "Adaptive CLAHE contrast enhancement",
+        "Edge-preserving bilateral denoise"
+      ],
+      "output_path": "/app/applet/backend/data/preprocessed/proc_sample_bachelor_degree_en.png",
+      "processed_url": "/api/files/preprocessed/proc_sample_bachelor_degree_en.png"
+    },
+    "ocr": {
+      "text": "UNIVERSITYOF TECHNOLOGY AND ADVANCED SCIENCE\n\nTHISCERTIFIES THAT\n\nALEXANDERCHEN\n\nByvirlue ofthe authority vested inthe Facultyand Academic Senate,\n\nheteby confersthe Degree of Bachelor of Science in Computer Science\n\nith all honors rights and privileges pertaining thereto.\n\n‘Authorized Registrar Signature",
+      "average_confidence": 79.4,
+      "language": "eng",
+      "engine": "Tesseract OCR 5.3 (Local Edge)",
+      "char_count": 306,
+      "word_count": 37,
+      "regions": [
+        {
+          "text": "UNIVERSITYOF",
+          "confidence": 74.0,
+          "bbox": [
+            341,
+            92,
+            71,
+            8
+          ]
+        },
+        {
+          "text": "TECHNOLOGY",
+          "confidence": 92.0,
+          "bbox": [
+            415,
+            92,
+            145,
+            8
+          ]
+        },
+        {
+          "text": "AND",
+          "confidence": 92.0,
+          "bbox": [
+            486,
+            81,
+            17,
+            28
+          ]
+        },
+        {
+          "text": "ADVANCED",
+          "confidence": 91.0,
+          "bbox": [
+            509,
+            92,
+            50,
+            8
+          ]
+        },
+        {
+          "text": "SCIENCE",
+          "confidence": 94.0,
+          "bbox": [
+            563,
+            92,
+            42,
+            8
+          ]
+        },
+        {
+          "text": "THISCERTIFIES",
+          "confidence": 91.0,
+          "bbox": [
+            421,
+            242,
+            101,
+            8
+          ]
+        },
+        {
+          "text": "THAT",
+          "confidence": 96.0,
+          "bbox": [
+            498,
+            231,
+            27,
+            28
+          ]
+        },
+        {
+          "text": "ALEXANDERCHEN",
+          "confidence": 80.0,
+          "bbox": [
+            380,
+            302,
+            87,
+            8
+          ]
+        },
+        {
+          "text": "Byvirlue",
+          "confidence": 40.0,
+          "bbox": [
+            281,
+            421,
+            143,
+            11
+          ]
+        },
+        {
+          "text": "ofthe",
+          "confidence": 84.0,
+          "bbox": [
+            323,
+            412,
+            24,
+            28
+          ]
+        },
+        {
+          "text": "authority",
+          "confidence": 82.0,
+          "bbox": [
+            351,
+            421,
+            43,
+            11
+          ]
+        },
+        {
+          "text": "vested",
+          "confidence": 90.0,
+          "bbox": [
+            398,
+            412,
+            26,
+            28
+          ]
+        },
+        {
+          "text": "inthe",
+          "confidence": 86.0,
+          "bbox": [
+            428,
+            422,
+            26,
+            8
+          ]
+        },
+        {
+          "text": "Facultyand",
+          "confidence": 50.0,
+          "bbox": [
+            458,
+            422,
+            52,
+            10
+          ]
+        },
+        {
+          "text": "Academic",
+          "confidence": 95.0,
+          "bbox": [
+            514,
+            412,
+            43,
+            28
+          ]
+        },
+        {
+          "text": "Senate,",
+          "confidence": 96.0,
+          "bbox": [
+            561,
+            412,
+            33,
+            28
+          ]
+        },
+        {
+          "text": "heteby",
+          "confidence": 80.0,
+          "bbox": [
+            281,
+            452,
+            31,
+            28
+          ]
+        },
+        {
+          "text": "confersthe",
+          "confidence": 71.0,
+          "bbox": [
+            316,
+            452,
+            50,
+            28
+          ]
+        },
+        {
+          "text": "Degree",
+          "confidence": 96.0,
+          "bbox": [
+            372,
+            452,
+            29,
+            28
+          ]
+        },
+        {
+          "text": "of",
+          "confidence": 96.0,
+          "bbox": [
+            407,
+            452,
+            8,
+            28
+          ]
+        },
+        {
+          "text": "Bachelor",
+          "confidence": 46.0,
+          "bbox": [
+            418,
+            461,
+            89,
+            11
+          ]
+        },
+        {
+          "text": "of",
+          "confidence": 46.0,
+          "bbox": [
+            461,
+            452,
+            8,
+            28
+          ]
+        },
+        {
+          "text": "Science",
+          "confidence": 68.0,
+          "bbox": [
+            473,
+            452,
+            33,
+            28
+          ]
+        },
+        {
+          "text": "in",
+          "confidence": 95.0,
+          "bbox": [
+            511,
+            464,
+            8,
+            6
+          ]
+        },
+        {
+          "text": "Computer",
+          "confidence": 69.0,
+          "bbox": [
+            526,
+            452,
+            43,
+            28
+          ]
+        },
+        {
+          "text": "Science",
+          "confidence": 69.0,
+          "bbox": [
+            573,
+            452,
+            35,
+            28
+          ]
+        },
+        {
+          "text": "all",
+          "confidence": 31.0,
+          "bbox": [
+            304,
+            502,
+            10,
+            8
+          ]
+        },
+        {
+          "text": "honors",
+          "confidence": 64.0,
+          "bbox": [
+            317,
+            502,
+            32,
+            9
+          ]
+        },
+        {
+          "text": "rights",
+          "confidence": 94.0,
+          "bbox": [
+            353,
+            492,
+            26,
+            28
+          ]
+        },
+        {
+          "text": "and",
+          "confidence": 94.0,
+          "bbox": [
+            383,
+            502,
+            17,
+            8
+          ]
+        },
+        {
+          "text": "privileges",
+          "confidence": 87.0,
+          "bbox": [
+            404,
+            492,
+            45,
+            28
+          ]
+        },
+        {
+          "text": "pertaining",
+          "confidence": 92.0,
+          "bbox": [
+            453,
+            492,
+            45,
+            28
+          ]
+        },
+        {
+          "text": "thereto.",
+          "confidence": 78.0,
+          "bbox": [
+            503,
+            502,
+            35,
+            8
+          ]
+        },
+        {
+          "text": "‘Authorized",
+          "confidence": 81.0,
+          "bbox": [
+            880,
+            747,
+            52,
+            8
+          ]
+        },
+        {
+          "text": "Registrar",
+          "confidence": 85.0,
+          "bbox": [
+            936,
+            747,
+            39,
+            10
+          ]
+        },
+        {
+          "text": "Signature",
+          "confidence": 83.0,
+          "bbox": [
+            979,
+            747,
+            45,
+            10
+          ]
+        }
+      ],
+      "warnings": [
+        "Certificate seal or signature block detected with variable contrast."
+      ]
+    },
+    "approval_notes": "Verified against university registrar ledger. Seal and signatures authentic.",
+    "reviewer": "Registrar Officer (Station 01)",
+    "reviewed_at": "2026-09-12 14:47:44"
+  }
+]

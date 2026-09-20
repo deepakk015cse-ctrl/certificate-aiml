@@ -1,0 +1,6 @@
+{
+  "name": "CertiExtract — Offline Multilingual Certificate Data Extraction & Human Verification Platform",
+  "description": "Offline-first document-processing platform for multilingual certificate vision preprocessing, local Tesseract OCR extraction, and registrar human verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

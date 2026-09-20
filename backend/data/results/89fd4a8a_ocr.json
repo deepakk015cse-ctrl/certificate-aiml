@@ -1,0 +1,475 @@
+{
+  "text": "ACADMIE DE PARIS- MINISTURE DE LHDUCATION DIPLAME DE FIN DTUDES SUPBRIEURES MARIE DUBOIS. a validavec succes l'ensemble des preuves requises pour l'obtention dur MASTEREN GESTION ET INGHNIERIE NUMBRIQUE Mention: Tri Bien avec Filicitations du Jury. Dativnn Paris ie 12 Septembre 2023 | Rat FR-PAR-55421 Authorized Signatory",
+  "average_confidence": 54.8,
+  "language": "fra",
+  "regions": [
+    {
+      "text": "ACADMIE",
+      "confidence": 40.0,
+      "bbox": [
+        670,
+        143,
+        108,
+        10
+      ]
+    },
+    {
+      "text": "DE",
+      "confidence": 93.0,
+      "bbox": [
+        728,
+        134,
+        11,
+        28
+      ]
+    },
+    {
+      "text": "PARIS-",
+      "confidence": 81.0,
+      "bbox": [
+        745,
+        143,
+        33,
+        10
+      ]
+    },
+    {
+      "text": "MINISTURE",
+      "confidence": 32.0,
+      "bbox": [
+        782,
+        143,
+        146,
+        10
+      ]
+    },
+    {
+      "text": "DE",
+      "confidence": 86.0,
+      "bbox": [
+        843,
+        134,
+        12,
+        28
+      ]
+    },
+    {
+      "text": "LHDUCATION",
+      "confidence": 0.0,
+      "bbox": [
+        859,
+        143,
+        69,
+        10
+      ]
+    },
+    {
+      "text": "DIPLAME",
+      "confidence": 6.0,
+      "bbox": [
+        694,
+        210,
+        46,
+        10
+      ]
+    },
+    {
+      "text": "DE",
+      "confidence": 96.0,
+      "bbox": [
+        743,
+        211,
+        14,
+        9
+      ]
+    },
+    {
+      "text": "FIN",
+      "confidence": 93.0,
+      "bbox": [
+        760,
+        210,
+        17,
+        10
+      ]
+    },
+    {
+      "text": "DTUDES",
+      "confidence": 0.0,
+      "bbox": [
+        781,
+        210,
+        50,
+        10
+      ]
+    },
+    {
+      "text": "SUPBRIEURES",
+      "confidence": 1.0,
+      "bbox": [
+        834,
+        210,
+        71,
+        10
+      ]
+    },
+    {
+      "text": "MARIE",
+      "confidence": 86.0,
+      "bbox": [
+        762,
+        387,
+        33,
+        10
+      ]
+    },
+    {
+      "text": "DUBOIS.",
+      "confidence": 18.0,
+      "bbox": [
+        798,
+        387,
+        40,
+        10
+      ]
+    },
+    {
+      "text": "a",
+      "confidence": 37.0,
+      "bbox": [
+        606,
+        453,
+        7,
+        28
+      ]
+    },
+    {
+      "text": "validavec",
+      "confidence": 46.0,
+      "bbox": [
+        620,
+        453,
+        54,
+        28
+      ]
+    },
+    {
+      "text": "succes",
+      "confidence": 28.0,
+      "bbox": [
+        676,
+        453,
+        33,
+        28
+      ]
+    },
+    {
+      "text": "l'ensemble",
+      "confidence": 31.0,
+      "bbox": [
+        713,
+        453,
+        54,
+        28
+      ]
+    },
+    {
+      "text": "des",
+      "confidence": 29.0,
+      "bbox": [
+        774,
+        453,
+        14,
+        28
+      ]
+    },
+    {
+      "text": "preuves",
+      "confidence": 29.0,
+      "bbox": [
+        795,
+        453,
+        42,
+        28
+      ]
+    },
+    {
+      "text": "requises",
+      "confidence": 91.0,
+      "bbox": [
+        841,
+        453,
+        45,
+        28
+      ]
+    },
+    {
+      "text": "pour",
+      "confidence": 85.0,
+      "bbox": [
+        890,
+        453,
+        22,
+        28
+      ]
+    },
+    {
+      "text": "l'obtention",
+      "confidence": 4.0,
+      "bbox": [
+        917,
+        459,
+        70,
+        11
+      ]
+    },
+    {
+      "text": "dur",
+      "confidence": 77.0,
+      "bbox": [
+        974,
+        453,
+        17,
+        28
+      ]
+    },
+    {
+      "text": "MASTEREN",
+      "confidence": 84.0,
+      "bbox": [
+        667,
+        504,
+        63,
+        28
+      ]
+    },
+    {
+      "text": "GESTION",
+      "confidence": 93.0,
+      "bbox": [
+        734,
+        504,
+        45,
+        28
+      ]
+    },
+    {
+      "text": "ET",
+      "confidence": 84.0,
+      "bbox": [
+        783,
+        504,
+        13,
+        28
+      ]
+    },
+    {
+      "text": "INGHNIERIE",
+      "confidence": 6.0,
+      "bbox": [
+        800,
+        513,
+        61,
+        10
+      ]
+    },
+    {
+      "text": "NUMBRIQUE",
+      "confidence": 85.0,
+      "bbox": [
+        864,
+        513,
+        64,
+        10
+      ]
+    },
+    {
+      "text": "Mention:",
+      "confidence": 83.0,
+      "bbox": [
+        684,
+        586,
+        46,
+        10
+      ]
+    },
+    {
+      "text": "Tri",
+      "confidence": 72.0,
+      "bbox": [
+        733,
+        577,
+        17,
+        28
+      ]
+    },
+    {
+      "text": "Bien",
+      "confidence": 53.0,
+      "bbox": [
+        757,
+        577,
+        21,
+        28
+      ]
+    },
+    {
+      "text": "avec",
+      "confidence": 53.0,
+      "bbox": [
+        782,
+        577,
+        22,
+        28
+      ]
+    },
+    {
+      "text": "Filicitations",
+      "confidence": 3.0,
+      "bbox": [
+        808,
+        586,
+        79,
+        10
+      ]
+    },
+    {
+      "text": "du",
+      "confidence": 93.0,
+      "bbox": [
+        873,
+        577,
+        13,
+        28
+      ]
+    },
+    {
+      "text": "Jury.",
+      "confidence": 90.0,
+      "bbox": [
+        890,
+        586,
+        25,
+        12
+      ]
+    },
+    {
+      "text": "Dativnn",
+      "confidence": 0.0,
+      "bbox": [
+        649,
+        631,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "Paris",
+      "confidence": 6.0,
+      "bbox": [
+        698,
+        631,
+        24,
+        28
+      ]
+    },
+    {
+      "text": "ie",
+      "confidence": 6.0,
+      "bbox": [
+        723,
+        631,
+        10,
+        28
+      ]
+    },
+    {
+      "text": "12",
+      "confidence": 96.0,
+      "bbox": [
+        738,
+        639,
+        12,
+        11
+      ]
+    },
+    {
+      "text": "Septembre",
+      "confidence": 84.0,
+      "bbox": [
+        754,
+        640,
+        57,
+        12
+      ]
+    },
+    {
+      "text": "2023",
+      "confidence": 92.0,
+      "bbox": [
+        814,
+        639,
+        26,
+        11
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 95.0,
+      "bbox": [
+        845,
+        638,
+        3,
+        13
+      ]
+    },
+    {
+      "text": "Rat",
+      "confidence": 64.0,
+      "bbox": [
+        853,
+        639,
+        17,
+        11
+      ]
+    },
+    {
+      "text": "FR-PAR-55421",
+      "confidence": 44.0,
+      "bbox": [
+        873,
+        639,
+        72,
+        11
+      ]
+    },
+    {
+      "text": "Authorized",
+      "confidence": 84.0,
+      "bbox": [
+        1276,
+        1009,
+        59,
+        10
+      ]
+    },
+    {
+      "text": "Signatory",
+      "confidence": 62.0,
+      "bbox": [
+        1338,
+        1009,
+        49,
+        12
+      ]
+    }
+  ],
+  "warnings": [
+    "Handwriting or degraded script detected: Cursive signatures and handwritten notations have reduced OCR fidelity. Please verify flagged areas manually.",
+    "Overall OCR confidence is below optimal threshold. Check image orientation, contrast, or select a specific language pack."
+  ],
+  "char_count": 323,
+  "word_count": 46,
+  "engine": "Local Tesseract OCR (Offline Open-Source)",
+  "handwriting_limitations_flag": true
+}

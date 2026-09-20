@@ -1,0 +1,412 @@
+{
+  "text": "(OXFORD INSTITUTE OF TECHNOLOGY CERTIFICATE OF GRADUATION Thisistocertify that ELENAROSTOVA has successfully completed the four-year degree program and isawarded BACHELOROF SCIENCE IN COMPUTER SCIENCE With FirstClass Distinction Honourson June 14,2024 Certificate 1D. O1T-202488492 | Dean: Dr. Arthur Pendelton Authorized Signatory",
+  "average_confidence": 79.7,
+  "language": "eng",
+  "regions": [
+    {
+      "text": "(OXFORD",
+      "confidence": 72.0,
+      "bbox": [
+        698,
+        121,
+        45,
+        10
+      ]
+    },
+    {
+      "text": "INSTITUTE",
+      "confidence": 85.0,
+      "bbox": [
+        746,
+        121,
+        74,
+        10
+      ]
+    },
+    {
+      "text": "OF",
+      "confidence": 85.0,
+      "bbox": [
+        806,
+        112,
+        14,
+        28
+      ]
+    },
+    {
+      "text": "TECHNOLOGY",
+      "confidence": 91.0,
+      "bbox": [
+        823,
+        121,
+        78,
+        10
+      ]
+    },
+    {
+      "text": "CERTIFICATE",
+      "confidence": 55.0,
+      "bbox": [
+        719,
+        190,
+        70,
+        9
+      ]
+    },
+    {
+      "text": "OF",
+      "confidence": 55.0,
+      "bbox": [
+        792,
+        190,
+        14,
+        9
+      ]
+    },
+    {
+      "text": "GRADUATION",
+      "confidence": 96.0,
+      "bbox": [
+        809,
+        190,
+        71,
+        9
+      ]
+    },
+    {
+      "text": "Thisistocertify",
+      "confidence": 40.0,
+      "bbox": [
+        749,
+        315,
+        78,
+        10
+      ]
+    },
+    {
+      "text": "that",
+      "confidence": 96.0,
+      "bbox": [
+        831,
+        315,
+        21,
+        10
+      ]
+    },
+    {
+      "text": "ELENAROSTOVA",
+      "confidence": 87.0,
+      "bbox": [
+        756,
+        370,
+        89,
+        10
+      ]
+    },
+    {
+      "text": "has",
+      "confidence": 0.0,
+      "bbox": [
+        609,
+        436,
+        17,
+        28
+      ]
+    },
+    {
+      "text": "successfully",
+      "confidence": 0.0,
+      "bbox": [
+        628,
+        436,
+        65,
+        28
+      ]
+    },
+    {
+      "text": "completed",
+      "confidence": 95.0,
+      "bbox": [
+        698,
+        436,
+        50,
+        28
+      ]
+    },
+    {
+      "text": "the",
+      "confidence": 95.0,
+      "bbox": [
+        753,
+        444,
+        18,
+        10
+      ]
+    },
+    {
+      "text": "four-year",
+      "confidence": 93.0,
+      "bbox": [
+        775,
+        436,
+        47,
+        28
+      ]
+    },
+    {
+      "text": "degree",
+      "confidence": 88.0,
+      "bbox": [
+        826,
+        436,
+        34,
+        28
+      ]
+    },
+    {
+      "text": "program",
+      "confidence": 93.0,
+      "bbox": [
+        866,
+        447,
+        43,
+        9
+      ]
+    },
+    {
+      "text": "and",
+      "confidence": 91.0,
+      "bbox": [
+        912,
+        444,
+        20,
+        10
+      ]
+    },
+    {
+      "text": "isawarded",
+      "confidence": 91.0,
+      "bbox": [
+        936,
+        444,
+        54,
+        10
+      ]
+    },
+    {
+      "text": "BACHELOROF",
+      "confidence": 88.0,
+      "bbox": [
+        672,
+        499,
+        75,
+        10
+      ]
+    },
+    {
+      "text": "SCIENCE",
+      "confidence": 96.0,
+      "bbox": [
+        751,
+        499,
+        48,
+        10
+      ]
+    },
+    {
+      "text": "IN",
+      "confidence": 92.0,
+      "bbox": [
+        802,
+        499,
+        11,
+        10
+      ]
+    },
+    {
+      "text": "COMPUTER",
+      "confidence": 92.0,
+      "bbox": [
+        816,
+        499,
+        62,
+        10
+      ]
+    },
+    {
+      "text": "SCIENCE",
+      "confidence": 96.0,
+      "bbox": [
+        881,
+        499,
+        48,
+        10
+      ]
+    },
+    {
+      "text": "With",
+      "confidence": 73.0,
+      "bbox": [
+        657,
+        573,
+        26,
+        10
+      ]
+    },
+    {
+      "text": "FirstClass",
+      "confidence": 77.0,
+      "bbox": [
+        685,
+        565,
+        50,
+        28
+      ]
+    },
+    {
+      "text": "Distinction",
+      "confidence": 86.0,
+      "bbox": [
+        741,
+        565,
+        57,
+        28
+      ]
+    },
+    {
+      "text": "Honourson",
+      "confidence": 82.0,
+      "bbox": [
+        800,
+        573,
+        60,
+        10
+      ]
+    },
+    {
+      "text": "June",
+      "confidence": 95.0,
+      "bbox": [
+        864,
+        574,
+        28,
+        9
+      ]
+    },
+    {
+      "text": "14,2024",
+      "confidence": 90.0,
+      "bbox": [
+        896,
+        573,
+        46,
+        11
+      ]
+    },
+    {
+      "text": "Certificate",
+      "confidence": 90.0,
+      "bbox": [
+        641,
+        627,
+        54,
+        11
+      ]
+    },
+    {
+      "text": "1D.",
+      "confidence": 73.0,
+      "bbox": [
+        699,
+        620,
+        12,
+        28
+      ]
+    },
+    {
+      "text": "O1T-202488492",
+      "confidence": 69.0,
+      "bbox": [
+        714,
+        628,
+        86,
+        10
+      ]
+    },
+    {
+      "text": "|",
+      "confidence": 96.0,
+      "bbox": [
+        807,
+        627,
+        1,
+        13
+      ]
+    },
+    {
+      "text": "Dean:",
+      "confidence": 96.0,
+      "bbox": [
+        815,
+        628,
+        29,
+        10
+      ]
+    },
+    {
+      "text": "Dr.",
+      "confidence": 95.0,
+      "bbox": [
+        848,
+        628,
+        13,
+        10
+      ]
+    },
+    {
+      "text": "Arthur",
+      "confidence": 93.0,
+      "bbox": [
+        864,
+        628,
+        35,
+        10
+      ]
+    },
+    {
+      "text": "Pendelton",
+      "confidence": 17.0,
+      "bbox": [
+        903,
+        628,
+        54,
+        10
+      ]
+    },
+    {
+      "text": "Authorized",
+      "confidence": 94.0,
+      "bbox": [
+        1286,
+        1007,
+        59,
+        9
+      ]
+    },
+    {
+      "text": "Signatory",
+      "confidence": 88.0,
+      "bbox": [
+        1349,
+        1007,
+        50,
+        12
+      ]
+    }
+  ],
+  "warnings": [],
+  "char_count": 331,
+  "word_count": 40,
+  "engine": "Local Tesseract OCR (Offline Open-Source)",
+  "handwriting_limitations_flag": false
+}
